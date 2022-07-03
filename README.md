@@ -5,8 +5,13 @@
 <p align="center">
 <strong>
 Fake Crypto Miner
+.
+.
+.
+.
+
 </strong>
-<img src="https://media.discordapp.net/attachments/991150215555993600/992988705662976081/unknown.png" width="750", height="550">
+<img src="https://media.discordapp.net/attachments/991150215555993600/992988705662976081/unknown.png" width="800", height="200">
 </p>
 <br>
 
